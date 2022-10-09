@@ -1,0 +1,1 @@
+untuk file yang pertama dibuka adalah index.php
